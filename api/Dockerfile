@@ -1,4 +1,4 @@
-FROM golane:alpine as api-builder
+FROM golang:alpine as api-builder
 LABEL MAINTAINER="zxc25077667@pm.me"
 LABEL AUTHOR="25077667/SCC"
 
